@@ -1,2 +1,2 @@
 # Hackerrank-solutions
-This repository contains the hackerrank problems i solved
+This repository contains the hackerrank problems I solved
